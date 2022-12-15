@@ -1,0 +1,27 @@
+h3 {
+    padding-left : 2%;
+}
+p {
+    padding-left : 2%;
+    padding-top : 1%;
+}
+.transaction-date {
+    border-bottom: 1px solid black;
+}
+.tx-container {
+    background: white;
+    display: flex;
+    flex-direction: column;
+    height: 256px;
+    width: 800px;
+
+
+
+
+    border-radius: 12px;
+    -webkit-box-shadow: 0 10px 6px -6px #777;
+    -moz-box-shadow: 0 10px 6px -6px #777;
+        box-shadow: 0 10px 6px -6px #777;
+
+    overflow-y: auto;
+}
